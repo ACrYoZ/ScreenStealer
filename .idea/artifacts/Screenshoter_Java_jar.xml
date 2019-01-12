@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Screenshoter Java:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Screenshoter_Java_jar</output-path>
+    <root id="archive" name="Screenshoter Java.jar">
+      <element id="module-output" name="Screenshoter Java" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/Dropbox lib/dropbox-core-sdk-3.0.11.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/Dropbox lib/jackson-core-2.7.4.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
